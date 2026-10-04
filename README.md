@@ -41,3 +41,15 @@ This repository serves as a personal vault for solved **Data Structures & Algori
 ✦ Core Data Structures  :: Arrays · Strings · Linked Lists · Stacks & Queues · Hash Maps · Trees · Graphs
 ✦ Algorithmic Domains   :: Two Pointers · Binary Search · Sliding Window · Dynamic Programming · Recursion & Backtracking
 ✦ Primary Environment   :: Python 3 (Collections, Itertools, Heapq, Bisect)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
