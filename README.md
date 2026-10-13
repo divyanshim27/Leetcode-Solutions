@@ -61,4 +61,8 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
