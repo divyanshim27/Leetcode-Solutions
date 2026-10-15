@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 Cosmic DSA Vault
+# DSA VAULT
 **Personal Data Structures & Algorithms Practice Repository**
 
 [![Language](https://img.shields.io/badge/Language-Python%203-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
