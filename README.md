@@ -70,6 +70,7 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0912-sort-an-array](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Hash Table
@@ -87,6 +88,7 @@ Leetcode-Solutions/
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0912-sort-an-array](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -108,4 +110,16 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
