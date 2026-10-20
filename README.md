@@ -71,6 +71,7 @@ Leetcode-Solutions/
 | ------- |
 | [0066-plus-one](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0219-contains-duplicate-ii](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0912-sort-an-array](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,4 +80,32 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
