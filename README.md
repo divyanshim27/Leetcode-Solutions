@@ -58,6 +58,7 @@ Leetcode-Solutions/
 | ------- |
 | [0002-add-two-numbers](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -71,6 +72,7 @@ Leetcode-Solutions/
 | ------- |
 | [0066-plus-one](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0912-sort-an-array](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Hash Table
@@ -114,6 +116,7 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0189-rotate-array) |
 ## Quicksort
 |  |
 | ------- |
