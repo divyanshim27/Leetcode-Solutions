@@ -77,6 +77,7 @@ Leetcode-Solutions/
 | [0189-rotate-array](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0875-koko-eating-bananas](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
@@ -138,4 +139,5 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0162-find-peak-element) |
+| [0875-koko-eating-bananas](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
