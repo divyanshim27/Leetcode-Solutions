@@ -73,6 +73,7 @@ Leetcode-Solutions/
 | [0066-plus-one](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -133,4 +134,8 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [0136-single-number](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0136-single-number) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
