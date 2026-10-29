@@ -71,6 +71,7 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0136-single-number) |
