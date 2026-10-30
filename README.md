@@ -78,6 +78,7 @@ Leetcode-Solutions/
 | [0128-longest-consecutive-sequence](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -132,6 +133,7 @@ Leetcode-Solutions/
 | ------- |
 | [0015-3sum](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0189-rotate-array) |
 ## Quicksort
 |  |
@@ -150,6 +152,7 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0875-koko-eating-bananas](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
