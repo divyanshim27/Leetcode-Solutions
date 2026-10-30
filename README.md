@@ -70,6 +70,7 @@ Leetcode-Solutions/
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0066-plus-one) |
@@ -100,6 +101,7 @@ Leetcode-Solutions/
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
@@ -128,6 +130,7 @@ Leetcode-Solutions/
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0189-rotate-array) |
 ## Quicksort
