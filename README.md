@@ -85,12 +85,14 @@ Leetcode-Solutions/
 | [0435-non-overlapping-intervals](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0875-koko-eating-bananas](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Sliding Window
 |  |
 | ------- |
@@ -108,6 +110,7 @@ Leetcode-Solutions/
 | [0217-contains-duplicate](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0912-sort-an-array](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
