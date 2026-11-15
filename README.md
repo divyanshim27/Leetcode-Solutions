@@ -68,6 +68,7 @@ Leetcode-Solutions/
 | ------- |
 | [0058-length-of-last-word](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Array
 |  |
 | ------- |
@@ -87,6 +88,7 @@ Leetcode-Solutions/
 | [0875-koko-eating-bananas](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +142,7 @@ Leetcode-Solutions/
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Quicksort
 |  |
 | ------- |
