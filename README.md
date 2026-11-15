@@ -66,12 +66,14 @@ Leetcode-Solutions/
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0057-insert-interval) |
@@ -178,4 +180,8 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
