@@ -67,6 +67,7 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -140,6 +141,7 @@ Leetcode-Solutions/
 |  |
 | ------- |
 | [0015-3sum](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -179,9 +181,22 @@ Leetcode-Solutions/
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
