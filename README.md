@@ -70,6 +70,7 @@ Leetcode-Solutions/
 | [0014-longest-common-prefix](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -102,12 +103,14 @@ Leetcode-Solutions/
 | [0128-longest-consecutive-sequence](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/divyanshim27/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
